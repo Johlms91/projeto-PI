@@ -5,14 +5,14 @@ body {
    color: #333;
   }
   
-  /* Aplicar League Spartan para textos em negrito */
+ 
   .titulo,
   strong {
    font-family: 'League Spartan', sans-serif;
    font-weight: 700;
   }
   
-  /* Seção azul escura */
+  
   .perfil {
    display: flex;
    justify-content: space-between;
@@ -20,7 +20,7 @@ body {
    padding: 50px;
    background-color: #0F2844;
    color: white;
-   border-top: 10px solid #B08B4F;
+   border-top: 20px solid #B08B4F;
   }
   
   .perfil-conteudo {
@@ -61,7 +61,7 @@ body {
    box-shadow: 15px 15px 0 #e3e3e3;
   }
   
-  /* Faixa dourada inferior */
+  
   .faixa-dourada {
   height: 20px;
    background-color: #B08B4F;

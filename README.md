@@ -1,2 +1,3 @@
 Seção apresentação.
-Criaão da seção de apresentação do cliente.
+Crição da seção de apresentação do cliente.
+
